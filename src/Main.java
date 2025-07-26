@@ -65,7 +65,7 @@ public class Main {
         else if (choice1 == 2) {
             System.out.println("Ти обрав піти направо та натрапив на чарівне озеро...");
             luck = luck + 20;
-            System.out.println("Підійшовши ближче, ти побачив маленьку фею, яка рокладала квіточки на камінні.");
+            System.out.println("Підійшовши ближче, ти побачив маленьку фею, яка розкладала квіточки на камінні.");
             System.out.println("Які наступні дії? 1 - забрати квіточки у феї, 2 - подарувати нову квіточку, 3 - пройти повз");
             Scanner scan = new Scanner(System.in);
             int choice6 = scan.nextInt();
